@@ -1,0 +1,187 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Margherita Pizza",
+    "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "fresh basil", "olive oil", "salt"],
+    "steps": [
+      "Preheat oven to 475°F (245°C)",
+      "Roll out pizza dough on a floured surface",
+      "Spread tomato sauce evenly over dough",
+      "Add mozzarella cheese slices",
+      "Bake for 12-15 minutes until crust is golden",
+      "Top with fresh basil and drizzle with olive oil"
+    ],
+    "nutrition": {
+      "calories": 285,
+      "protein": 12,
+      "carbs": 36,
+      "fats": 10
+    },
+    "dietaryTags": ["vegetarian"],
+    "cuisine": "Italian",
+    "difficulty": "easy",
+    "cookTime": "fast"
+  },
+  {
+    "id": 2,
+    "name": "Vegan Buddha Bowl",
+    "ingredients": ["quinoa", "chickpeas", "kale", "sweet potato", "avocado", "tahini", "lemon juice", "olive oil"],
+    "steps": [
+      "Cook quinoa according to package instructions",
+      "Roast chickpeas with olive oil at 400°F for 20 minutes",
+      "Cube and roast sweet potato until tender",
+      "Massage kale with lemon juice and olive oil",
+      "Arrange all ingredients in a bowl",
+      "Drizzle with tahini dressing"
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 15,
+      "carbs": 52,
+      "fats": 18
+    },
+    "dietaryTags": ["vegan", "gluten-free", "high-protein"],
+    "cuisine": "International",
+    "difficulty": "easy",
+    "cookTime": "medium"
+  },
+  {
+    "id": 3,
+    "name": "Grilled Chicken Salad",
+    "ingredients": ["chicken breast", "mixed greens", "cherry tomatoes", "cucumber", "red onion", "feta cheese", "balsamic vinegar", "olive oil"],
+    "steps": [
+      "Season chicken breast with salt, pepper, and herbs",
+      "Grill chicken for 6-7 minutes per side",
+      "Let chicken rest, then slice",
+      "Chop vegetables and combine with greens",
+      "Add sliced chicken on top",
+      "Drizzle with balsamic vinegar and olive oil"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 35,
+      "carbs": 12,
+      "fats": 15
+    },
+    "dietaryTags": ["high-protein", "gluten-free", "low-carb"],
+    "cuisine": "Mediterranean",
+    "difficulty": "easy",
+    "cookTime": "fast"
+  },
+  {
+    "id": 4,
+    "name": "Vegetable Stir-Fry",
+    "ingredients": ["broccoli", "bell peppers", "carrots", "snap peas", "garlic", "ginger", "soy sauce", "sesame oil", "rice"],
+    "steps": [
+      "Cook rice according to package instructions",
+      "Heat sesame oil in a wok over high heat",
+      "Add minced garlic and ginger, stir for 30 seconds",
+      "Add harder vegetables first (carrots, broccoli)",
+      "Add softer vegetables (peppers, snap peas)",
+      "Toss with soy sauce and serve over rice"
+    ],
+    "nutrition": {
+      "calories": 295,
+      "protein": 8,
+      "carbs": 48,
+      "fats": 8
+    },
+    "dietaryTags": ["vegan", "dairy-free"],
+    "cuisine": "Asian",
+    "difficulty": "easy",
+    "cookTime": "fast"
+  },
+  {
+    "id": 5,
+    "name": "Beef Tacos",
+    "ingredients": ["ground beef", "taco shells", "lettuce", "tomatoes", "cheddar cheese", "sour cream", "taco seasoning", "lime"],
+    "steps": [
+      "Brown ground beef in a skillet over medium-high heat",
+      "Add taco seasoning and water, simmer for 5 minutes",
+      "Warm taco shells in oven",
+      "Chop lettuce and tomatoes",
+      "Fill shells with beef",
+      "Top with lettuce, tomatoes, cheese, and sour cream"
+    ],
+    "nutrition": {
+      "calories": 385,
+      "protein": 22,
+      "carbs": 28,
+      "fats": 21
+    },
+    "dietaryTags": ["high-protein"],
+    "cuisine": "Mexican",
+    "difficulty": "easy",
+    "cookTime": "fast"
+  },
+  {
+    "id": 6,
+    "name": "Lentil Curry",
+    "ingredients": ["red lentils", "coconut milk", "onion", "garlic", "ginger", "curry powder", "turmeric", "spinach", "tomatoes"],
+    "steps": [
+      "Sauté diced onion, garlic, and ginger in oil",
+      "Add curry powder and turmeric, toast for 1 minute",
+      "Add lentils, diced tomatoes, and coconut milk",
+      "Simmer for 25-30 minutes until lentils are tender",
+      "Stir in fresh spinach until wilted",
+      "Serve over rice or with naan bread"
+    ],
+    "nutrition": {
+      "calories": 340,
+      "protein": 18,
+      "carbs": 45,
+      "fats": 10
+    },
+    "dietaryTags": ["vegan", "gluten-free", "dairy-free", "high-protein"],
+    "cuisine": "Indian",
+    "difficulty": "medium",
+    "cookTime": "medium"
+  },
+  {
+    "id": 7,
+    "name": "Salmon with Asparagus",
+    "ingredients": ["salmon fillet", "asparagus", "lemon", "garlic", "butter", "olive oil", "dill", "salt", "pepper"],
+    "steps": [
+      "Preheat oven to 400°F (200°C)",
+      "Place salmon and asparagus on baking sheet",
+      "Drizzle with olive oil and melted butter",
+      "Season with minced garlic, dill, salt, and pepper",
+      "Bake for 12-15 minutes until salmon flakes easily",
+      "Serve with lemon wedges"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 34,
+      "carbs": 8,
+      "fats": 24
+    },
+    "dietaryTags": ["gluten-free", "high-protein", "low-carb"],
+    "cuisine": "American",
+    "difficulty": "easy",
+    "cookTime": "fast"
+  },
+  {
+    "id": 8,
+    "name": "Mushroom Risotto",
+    "ingredients": ["arborio rice", "mushrooms", "vegetable broth", "white wine", "parmesan cheese", "onion", "garlic", "butter", "thyme"],
+    "steps": [
+      "Heat vegetable broth and keep warm",
+      "Sauté diced onion and garlic in butter",
+      "Add arborio rice, toast for 2 minutes",
+      "Add wine, stir until absorbed",
+      "Add broth one ladle at a time, stirring constantly",
+      "Fold in sautéed mushrooms, butter, and parmesan",
+      "Season and garnish with fresh thyme"
+    ],
+    "nutrition": {
+      "calories": 425,
+      "protein": 12,
+      "carbs": 58,
+      "fats": 15
+    },
+    "dietaryTags": ["vegetarian", "gluten-free"],
+    "cuisine": "Italian",
+    "difficulty": "hard",
+    "cookTime": "long"
+  }
+]
